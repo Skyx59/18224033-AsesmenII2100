@@ -1,3 +1,151 @@
 # UTS-4 My Shapes
 
-Tes
+## S – Signature Strengths (Kekuatan Khas)
+
+Aku tumbuh sebagai seseorang yang selalu menemukan makna di balik proses belajar. Bagiku, belajar bukan hanya soal menambah pengetahuan, tapi juga tentang memahami diri dan menemukan keseimbangan antara berpikir dan beristirahat.
+
+Kekuatan terbesarku adalah rasa ingin tahu yang reflektif. Aku tidak hanya ingin tahu “apa” dan “bagaimana”, tapi juga “mengapa”. Di setiap pengalaman, aku mencari hubungan antara logika dan nilai-nilai manusiawi.
+
+**Kekuatan khasku:** Rasa ingin tahu, ketekunan reflektif, keseimbangan emosional, dan humor yang menenangkan suasana.
+
+**Contoh Implementasi:**  
+Dalam proyek analisis data kelompok, saat suasana tegang, aku mencoba mencairkannya dengan humor ringan agar semua kembali fokus. Hasilnya, kami bukan hanya menyelesaikan proyek tepat waktu, tapi juga merasa bangga karena prosesnya menyenangkan dan penuh makna.
+
+---
+
+## H – Heart (Nilai & Gairah)
+
+Aku percaya bahwa teknologi seharusnya melayani manusia, bukan sebaliknya.  
+Hatiku tertarik pada bagaimana data dan produk digital dapat membantu kehidupan sehari-hari—membuat keputusan lebih cerdas, pekerjaan lebih mudah, dan hidup lebih manusiawi.
+
+Aku bergairah pada proses memahami pengguna dan menyederhanakan kompleksitas. Aku ingin membangun sistem dan produk yang tidak hanya efisien, tapi juga memberi rasa nyaman dan adil bagi penggunanya.  
+Di balik setiap baris kode, aku ingin menanamkan nilai empati.
+
+**Nilai utama:** Kejujuran, keseimbangan, dan manfaat sosial.  
+**Fokus hati:** Data Science untuk kebaikan manusia.
+
+**Contoh Implementasi:**  
+Jika mendapatkan kesempatan untuk membuat prototype aplikasi kampus, aku tidak akan hanya fokus pada fungsi teknis, tapi juga pengalaman pengguna. Aku akan belajar dari teman-teman yang menggunakannya, memperbaiki desain agar lebih inklusif dan mudah dipahami—karena bagi aku, kesuksesan produk diukur dari sejauh mana ia membantu orang lain.
+
+---
+
+## A – Aptitudes & Acquired Skills (Kemampuan & Keterampilan)
+
+Aku menggabungkan analisis logis dan kepekaan desain.  
+Aku mampu bekerja dengan data dan sistem sekaligus berpikir kreatif dalam menyajikan informasi agar mudah dipahami.
+
+Aku terbiasa menulis kode program dan mengelola proyek dengan pendekatan kolaboratif. Di luar keterampilan teknis, aku juga mengasah kemampuan komunikasi—menyampaikan ide kompleks dengan cara yang sederhana dan membangun kepercayaan dalam tim.
+
+**Hard Skills:**  
+Analisis Data, Model Training, UI/UX dasar, Web Development, Python, SQL.  
+
+**Soft Skills:**  
+Empati, komunikasi reflektif, kolaboratif, dan pembelajaran berkelanjutan.
+
+**Contoh Implementasi:**  
+Dalam lomba berbasis analisis data, aku berkolaborasi dengan tim kecil dengan pembagian tugas yang seimbang: satu fokus model, satu visualisasi, dan satu di bagian interpretasi hasil.
+
+---
+
+## P – Personality (Kepribadian)
+
+Aku seorang pemikir tenang yang menyukai keseimbangan antara logika dan intuisi. Aku reflektif, analitis, tapi juga hangat dalam berinteraksi. Aku tidak selalu menjadi yang paling vokal di ruangan, tapi ketika berbicara, aku berusaha agar kata-kataku menambah arah, bukan kebisingan.
+
+Aku percaya bahwa kerendahan hati adalah bentuk kecerdasan tertinggi.  
+Aku belajar untuk mendengarkan sebelum menilai, memahami sebelum memberi pendapat. Dalam kerja tim, aku senang jika bisa menjadi penghubung ide—menyatukan perspektif rasional dan emosional agar hasil lebih utuh.
+
+**Gaya kerja:** Tenang, reflektif, kolaboratif, terarah, dan penuh humor ringan.  
+**Motivasi utama:** Proses yang bermakna lebih penting daripada hasil yang cepat.
+
+---
+
+## E – Experiences (Pengalaman Hidup)
+
+Salah satu pengalaman yang paling membentukku adalah masa-masa belajar hingga larut malam menjelang ujian besar.  
+Saat itu, aku belajar bahwa ketekunan bukan hanya soal kerja keras, tapi tentang kejujuran pada diri sendiri—bahwa tidak ada usaha yang sia-sia jika dilakukan dengan niat baik.
+
+Kelelahan waktu itu mengajarkanku arti keseimbangan: kapan harus mendorong diri, dan kapan harus berhenti untuk bernafas. Dari situ aku belajar bahwa kebijaksanaan muncul ketika logika dan empati berjalan berdampingan.
+
+Dalam lomba dan proyek, aku sering menghadapi tekanan dan kegagalan kecil. Tapi justru dari sanalah aku menemukan versi terbaik dari diriku: seseorang yang tidak cepat puas, tapi juga tidak kehilangan semangat untuk mencoba lagi.
+
+**Pelajaran utama:**  
+Kegigihan tanpa keseimbangan membuat kita kaku; keseimbangan tanpa ketekunan membuat kita stagnan.  
+Keduanya harus berjalan bersama.
+
+---
+
+## Pernyataan Misi Pribadi
+
+> “Aku ingin membangun sistem dan produk digital yang membantu orang hidup lebih baik—dengan menggabungkan logika data dan empati manusia. Aku ingin menjadi seseorang yang tidak hanya berpikir dengan cerdas, tapi juga bertindak dengan hati.”
+
+---
+
+## Tabel – Piagam Diri dan Identitas Naratif “My SHAPE”
+
+| Komponen | Deskripsi Reflektif | Contoh Implementasi Nyata |
+|-----------|---------------------|-----------------------------|
+| **S – Signature Strengths** | Rasa ingin tahu reflektif, keseimbangan berpikir dan beristirahat, humor dalam tekanan. | Mencairkan suasana tegang dalam proyek sambil menjaga arah dan ritme kerja tim. |
+| **H – Heart (Nilai & Gairah)** | Kejujuran, keseimbangan, manfaat sosial; tertarik pada data dan teknologi yang melayani manusia. | Mendesain prototype aplikasi kampus dengan fokus pada empati pengguna. |
+| **A – Aptitudes & Skills** | Analisis logis, komunikasi sederhana, *Model Training*. | Menyajikan hasil data dalam bentuk visual. |
+| **P – Personality** | Reflektif, tenang, terbuka, kolaboratif, penuh humor. | Menjadi penyeimbang ide dan emosi dalam tim selama kerja kelompok. |
+| **E – Experiences** | Belajar dari kelelahan, menemukan keseimbangan, dan membangun ketulusan dalam usaha. | Menghadapi kegagalan kompetisi dengan refleksi dan semangat belajar baru. |
+| **Pernyataan Misi Pribadi** | “Menghubungkan logika dan empati dalam setiap karya digital.” | Mengembangkan produk yang tidak hanya cerdas, tapi juga manusiawi. |
+
+---
+
+## Rencana Aksi 90 Hari (SMART Plan)
+
+### Target 1 — Membangun Portofolio “Data yang Bercerita”{.unnumbered}
+**Spesifik:** Membuat satu proyek analisis data yang mengubah kumpulan angka menjadi cerita yang mudah dipahami—misalnya tentang pola belajar mahasiswa, waktu istirahat, atau kebiasaan produktivitas.  
+**Terukur:** Menghasilkan satu proyek dengan dokumentasi reflektif di GitHub dan visualisasi data interaktif.  
+**Dapat Dicapai:** Menggunakan keterampilan Python, Pandas, dan visualisasi (Matplotlib/Streamlit).  
+**Relevan:** Menunjukkan kemampuan teknis sekaligus narasi yang manusiawi dalam bidang Data Science.  
+**Batas Waktu:** 30 hari.  
+**Outcome:** 1 proyek portofolio yang bukan hanya akurat secara data, tapi juga bercerita secara makna.  
+
+### Target 2 — Mengikuti Kolaborasi atau Kompetisi Produk Teknologi{.unnumbered}
+**Spesifik:** Berpartisipasi dalam satu kompetisi teknologi atau proyek tim yang menantang, berfokus pada desain solusi berbasis data.  
+**Terukur:** Prototype dan laporan hasil refleksi yang mencakup peran, proses berpikir, dan pembelajaran dari tim.  
+**Dapat Dicapai:** Melibatkan diri dalam kegiatan kampus, hackathon, atau kompetisi online.  
+**Relevan:** Melatih kolaborasi lintas bidang, komunikasi teknis, dan kerja sama berbasis empati.  
+**Batas Waktu:** 45 hari.  
+**Outcome:** 1 pengalaman kolaboratif yang memberi pelajaran tentang ketekunan dan keseimbangan dalam tim.  
+
+### Target 3 — Melatih Kebiasaan Reflektif dan Dokumentasi Proses Belajar{.unnumbered}
+**Spesifik:** Menulis jurnal singkat setiap minggu tentang pembelajaran, kegagalan kecil, dan momen “aha!” yang ditemukan di tengah perjalanan.  
+**Terukur:** Minimal 8 catatan refleksi di Notion atau GitHub README.  
+**Dapat Dicapai:** Dikerjakan secara bertahap setiap akhir pekan.  
+**Relevan:** Mengasah kesadaran diri, memperdalam makna dari setiap proses belajar, dan menjaga keseimbangan mental.  
+**Batas Waktu:** 60 hari.  
+**Outcome:** 6–8 catatan refleksi autentik tentang proses belajar yang jujur dan membumi.  
+
+### Target 4 — Membangun Alat atau Prototype yang Memudahkan Orang Lain{.unnumbered}
+**Spesifik:** Merancang alat sederhana berbasis AI atau data—misalnya sistem pengingat belajar yang menyesuaikan dengan ritme waktu pengguna, atau alat prediksi kebiasaan belajar.  
+**Terukur:** Prototype dapat dijalankan secara interaktif oleh pengguna.  
+**Dapat Dicapai:** Menggunakan Python, Streamlit, dan logika sederhana berbasis data.  
+**Relevan:** Menerapkan keterampilan Product Thinking dan analisis data dalam konteks nyata.  
+**Batas Waktu:** 90 hari.  
+**Outcome:** 1 prototype fungsional yang menunjukkan integrasi logika, empati, dan desain yang bermakna.  
+
+---
+
+### Makna dari Rencana Ini{.unnumbered}
+Rencana ini bukan sekadar daftar tugas, tapi **kompas pengembangan diri.**  
+Aku ingin setiap proyek, jurnal, dan prototype menjadi langkah kecil menuju kedewasaan profesional — bukan hanya sebagai pembuat sistem, tapi sebagai **pembelajar yang sadar makna di balik teknologi.**  
+Karena dari malam-malam panjang belajar hingga larut, aku tahu: hasil terbaik tidak lahir dari kelelahan semata, tapi dari ketulusan untuk tumbuh tanpa kehilangan sisi manusia.
+
+---
+
+## Narasi 90 Detik — “Tentang Saya”
+
+Hai, saya Rezky, mahasiswa Sistem dan Teknologi Informasi di Institut Teknologi Bandung.  
+Saya percaya bahwa belajar bukan hanya tentang menguasai materi, tapi tentang mengenal diri sendiri di setiap prosesnya.  
+
+Sejak dulu, saya punya rasa ingin tahu yang besar terhadap bagaimana sesuatu bekerja — dari pola dalam data hingga alasan di balik perilaku manusia. Tapi perjalanan saya tidak selalu mulus. Ada malam-malam panjang di depan layar, di mana kepala penuh rumus, tapi hati belajar arti ketekunan. Dari sana saya paham, bahwa **kelelahan bisa menjadi guru yang paling jujur**, mengajarkan tentang batas, kesungguhan, dan keseimbangan.  
+
+Saya orang yang tenang, reflektif, dan suka mencari makna di balik setiap hal kecil. Bagi saya, bekerja sama bukan berarti selalu bicara paling keras, tapi menciptakan ruang di mana semua orang bisa bertumbuh bersama.  
+
+Saya tertarik pada **Data Science**, karena keduanya menghubungkan logika dengan empati. Saya ingin menggunakan data untuk memahami manusia, dan teknologi untuk mempermudah kehidupan mereka. Saya ingin karya saya tidak hanya efisien, tapi juga bermakna — seperti sistem yang sederhana, tapi benar-benar membantu orang yang membutuhkannya.  
+
+Saya tahu perjalanan ini panjang, tapi saya tidak ingin terburu-buru. Karena saya percaya, **belajar sejati bukan tentang siapa yang paling cepat sampai, tapi siapa yang paling konsisten berjalan.**  
+Dan saya ingin menjadi orang itu — yang terus belajar, tertawa, dan tumbuh, selangkah demi selangkah, dengan hati yang jujur dan pikiran yang terbuka.
