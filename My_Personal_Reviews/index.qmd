@@ -113,3 +113,6 @@ Tulisan-tulisannya tidak hanya berfokus pada kemampuan teknis mahasiswa IT, teta
 ### Kesimpulan Akhir**
 Self-Assessment menunjukkan bahwa portofolio ini memiliki orisinalitas tinggi, keterlibatan emosional yang kuat, dan keautentikan naratif yang mendalam.  
 Karya-karya ini menggambarkan perjalanan seorang mahasiswa Sistem dan Teknologi Informasi yang tidak hanya cerdas secara logika, tetapi juga sadar secara emosional. 
+
+### Peer Review{.unnumbered}  
+[Klik di sini untuk membuka excel peer assessment](https://docs.google.com/spreadsheets/d/1UZi9pvJwMWkTbTVKFSjuYwzkr_akqXsO/edit?gid=150157393#gid=150157393)
