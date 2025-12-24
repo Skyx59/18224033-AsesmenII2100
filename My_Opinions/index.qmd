@@ -1,5 +1,69 @@
-## UAS-3 My Opinions
+# UAS-2 My Opinion
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+## Opini tentang Peran Sistem Informasi dalam Mengarahkan Produktivitas Manusia{.unnumbered}
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+---
+
+## Premis Opini
+
+Saya berpendapat bahwa sistem informasi memiliki peran penting dalam meningkatkan produktivitas manusia, tetapi hanya jika sistem tersebut diposisikan sebagai alat refleksi dan orientasi, bukan sebagai mekanisme kontrol yang kaku.
+
+Produktivitas, dalam pandangan saya, bukan sekadar kemampuan menyelesaikan banyak tugas dalam waktu singkat, melainkan kemampuan manusia untuk menggunakan energi, fokus, dan waktunya secara sadar dan bermakna. Oleh karena itu, sistem informasi yang dirancang tanpa mempertimbangkan dimensi manusia justru berpotensi melemahkan produktivitas itu sendiri.
+
+---
+
+## Dasar Pembentukan Opini
+
+Opini ini terbentuk dari pengamatan terhadap cara manusia berinteraksi dengan sistem produktivitas modern. Banyak sistem menawarkan pencatatan waktu, pengingat otomatis, dan metrik efisiensi yang rinci. Namun, semakin detail sistem tersebut, semakin besar pula risiko pengguna merasa tertekan dan kehilangan fleksibilitas berpikir.
+
+Dari sisi informasi, sistem sering kali menampilkan terlalu banyak data tanpa konteks. Dari sisi pengalaman, ketergantungan berlebihan pada notifikasi membuat manusia bereaksi, bukan berpikir. Dari sisi nilai, efisiensi sering ditempatkan lebih tinggi daripada kesejahteraan mental. Sementara dari sisi perasaan, penggunaan sistem yang terlalu menuntut memicu kelelahan dan rasa bersalah.
+
+Keempat unsur ini saling memengaruhi dan membentuk opini saya bahwa masalah utama produktivitas bukanlah kekurangan teknologi, melainkan ketiadaan arah yang disadari dalam penggunaan teknologi.
+
+---
+
+## Opini Utama: Sistem Informasi sebagai Alat Orientasi
+
+Menurut saya, sistem informasi seharusnya membantu manusia memahami pola kerjanya sendiri, bukan memaksanya untuk selalu aktif dan sibuk. Sistem yang baik tidak bertanya, “Apa saja yang belum kamu kerjakan?”, tetapi “Apa yang paling penting untuk kamu kerjakan sekarang?”.
+
+Dalam konteks ini, sistem informasi berfungsi sebagai kompas, bukan stopwatch. Ia membantu pengguna mengenali prioritas, ritme energi, dan batas dirinya sendiri. Dengan demikian, produktivitas tidak lagi menjadi perlombaan melawan waktu, tetapi proses penyelarasan antara tujuan dan kapasitas manusia.
+
+Opini ini sejalan dengan pandangan bahwa teknologi seharusnya memperjelas arah berpikir, bukan menggantikannya.
+
+---
+
+## Sikap terhadap Pandangan Berbeda
+
+Saya menyadari bahwa tidak semua konteks membutuhkan sistem yang fleksibel. Dalam lingkungan tertentu, seperti organisasi dengan tuntutan konsistensi tinggi atau sistem kritis, pendekatan yang lebih terstruktur dan ketat mungkin justru efektif.
+
+Oleh karena itu, saya tidak memandang opini ini sebagai kebenaran universal. Saya memosisikannya sebagai pandangan kontekstual yang lahir dari pengalaman dan nilai tertentu. Ketika menghadapi pendapat yang menekankan detail dan kontrol sebagai kunci produktivitas, saya berusaha memahami dasar pemikiran di baliknya, bukan langsung menolaknya.
+
+Bagi saya, perbedaan opini adalah ruang dialog, bukan arena pembuktian siapa yang paling benar.
+
+---
+
+## Kesiapan Mengubah Opini
+
+Salah satu prinsip penting dalam membangun opini adalah kesiapan untuk mengubahnya. Dunia sistem informasi berkembang cepat, dan pendekatan yang relevan hari ini bisa menjadi usang esok hari.
+
+Jika saya menemukan sistem informasi yang mampu menjaga keseimbangan antara struktur dan kebebasan, antara efisiensi dan refleksi, maka opini saya siap diperbarui. Perubahan opini, bagi saya, bukan tanda inkonsistensi, melainkan bukti bahwa proses berpikir masih berjalan.
+
+Opini yang tidak pernah berubah sering kali bukan karena kuat, tetapi karena berhenti dipertanyakan.
+
+---
+
+##  Opini dan Tanggung Jawab Mahasiswa Sistem dan Teknologi Informasi
+
+Sebagai mahasiswa Sistem dan Teknologi Informasi, saya memandang opini bukan sekadar ekspresi pribadi, melainkan bagian dari tanggung jawab intelektual. Cara kita memandang teknologi akan memengaruhi sistem seperti apa yang kelak kita rancang.
+
+Opini yang reflektif membantu kita membedakan antara sistem yang hanya efisien dan sistem yang benar-benar bermakna. Dalam konteks ini, membangun opini yang sadar, terbuka, dan berimbang merupakan bagian dari proses menjadi perancang sistem yang bertanggung jawab.
+
+---
+
+## Kesimpulan
+
+Bagi saya, sistem informasi yang baik bukanlah sistem yang membuat manusia bekerja tanpa henti, tetapi sistem yang membantu manusia bekerja dengan arah yang jelas dan kesadaran yang utuh.
+
+Produktivitas sejati tidak lahir dari tekanan, melainkan dari pemahaman. Dan peran sistem informasi, menurut saya, adalah membantu manusia mencapai pemahaman tersebut.
+
+Dengan memosisikan teknologi sebagai alat orientasi, bukan alat kontrol, kita membuka kemungkinan lahirnya produktivitas yang tidak hanya tinggi secara angka, tetapi juga sehat secara manusiawi.
